@@ -4,7 +4,8 @@
 
 ## About Me
 
-I'm currently pursuing a Bachelor of Software Engineering at [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au), expected to graduate in July 2027. Alongside my studies, I actively participate in hackathons, conferences, and webinars, continually expanding my knowledge and skills. I also founded and currently run the RMIT Sailing Club, blending my love for sailing with leadership and community building. Note: The majority of my projects on GitHub are private due to either organization policy or private/personal content (Vangbot has real-world addresses and references, and all school projects are automatically private)
+I'm currently pursuing a Bachelor of Software Engineering at [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au), expected to graduate in July 2027. Alongside my studies, I actively participate in hackathons, conferences, and webinars, continually expanding my knowledge and skills. I also founded and currently run the RMIT Sailing Club, blending my love for sailing with leadership and community building. 
+**Note:** The majority of my projects on GitHub are private due to either organization policy or private/personal content (Vangbot has real-world addresses and references, and all school projects are automatically private)
 
 ## Main Experience
 
@@ -19,7 +20,7 @@ I'm currently pursuing a Bachelor of Software Engineering at [Royal Melbourne In
 ### Website Developer | Community Sailing School | 2023-Present
 - Developed and maintained a WordPress site for the Community Sailing School, serving over 350 users.
 - Conducted design thinking sessions with instructors to tailor the website to the needs of sailors, ensuring user-centric design.
-- [Check out the website here](https://www.communitysailingschool.org/).
+- [Check out the website here](https://www.communitysailingschool.org/). (Needs an account but is free to make)
 
 ## Skills
 
