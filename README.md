@@ -2,6 +2,8 @@
 
 👋 Hi there! I'm Liam, a passionate and driven Software Engineering student from Melbourne, Australia. I thrive on learning new technologies, tackling complex challenges, and creating impactful projects.  
 
+---
+
 ## About Me  
 - 🎓 **Education**:  
   - **Bachelor of Software Engineering (Professional), Minor in Cyber Assurance**  
@@ -9,40 +11,65 @@
   - **Certificate in Design Thinking in Technology**  
     [Purdue University](https://www.purdue.edu) | 100% grade  
 
-- 💻 **Skills**:  
-  - Programming Languages: Java, C++, Python, JavaScript, Node.js  
-  - Tools & Frameworks: Git, Docker, React, WordPress, IoT Systems  
-  - Software Development: Agile methodologies, SDLC, system design  
-  - Others: Robotics programming, database integration, SAT solvers  
+- 🌟 **Soft Skills**:  
+  - Leadership: Founded and led teams across various contexts, from robotics to sailing clubs.  
+  - Teamwork: Thrives in collaborative environments such as clubs, sports, and global initiatives.  
+  - Customer Service: Strong interpersonal skills honed through food service and coaching roles.  
+  - Problem Solving & Critical Thinking: Proven through technical projects and academic challenges.  
+  - Communication: Strengthened through leadership, teaching, and community management roles.  
 
-- 🌟 **Experience**:  
-  - **Intern, Amazon Prime Air**  
-    - Collaborated on advanced robotics and IoT systems, enhancing automation processes.  
-  - **Website Developer, Community Sailing School**  
-    - Created and maintained a WordPress site for over 350 users. Conducted user-centric design sessions.  
-  - **Founder, Telltale Solutions**  
-    - Led innovative software projects, including PortStart.ai, an AI-powered umpire system for sailing.  
-  - **Freelancer, Canadian Consulate General in Detroit**  
-    - Managed website content and company databases, creating a seamless user experience.  
-  - **VidLabs**  
-    - Contributed to AI-based video editing tools and community management for startups.  
+- 💻 **Hard Skills**:  
+  - **Languages**: HTML/CSS, JavaScript, TypeScript, Node.js, Python, Java, C++  
+  - **Frameworks/Tools**: React, WordPress, Docker, IoT Systems, Git  
+  - **Specialized Skills**: Robotics programming, database integration, SAT solvers  
 
-- 🏆 **Achievements**:  
-  - Robotics: Captain of FRC Team (Detroit Country Day School), developed autonomous and manual code, won multiple competitions.  
-  - Hackathons: Active participant in various coding challenges and webinars.  
-  - Leadership: Founded and lead the RMIT Sailing Club, blending technology and sports.  
+---
 
-- 🚀 **Projects**:  
-  - **Vangbot**  
-    - A Node.js-based Discord bot with database integration, used by 10,000+ users.  
-  - **PortStart.ai**  
-    - AI-powered umpire system to enhance fairness in competitive sailing.  
-  - **Something in the works 👀**   
+## Experience  
+- **Amazon Prime Air | Internship (2023)**  
+  - Worked on robotics and IoT systems to enhance automation and user-centric drone delivery solutions.  
+- **Community Sailing School | Website Developer (2022-2023)**  
+  - Designed and maintained a WordPress site for 350+ users, implementing user-centric design principles.  
+- **Consulate General of Canada | Data Analyst & Back-End Developer (2023-2024)**  
+  - Created and updated 1,000+ web pages, managing data from multiple sources.  
+- **Telltale Solutions | Founder & Lead**  
+  - Spearheaded projects like PortStart.ai, an AI-powered umpire system for competitive sailing.  
+- **VidLabs**  
+  - Contributed to AI-powered platforms like AlphaTwin and VidLabs, managing their community and product development.  
 
-- 🎯 **Interests**:  
-  - Robotics, IoT, AI applications, sailing, and open-source contributions.  
+---
+
+## Projects  
+- **VangBot**  
+  - Discord bot built with Node.js, SQL database integration, and 24/7 uptime on Raspberry Pi.  
+  - Served over 10,000 users across multiple servers.  
+- **PortStart.ai**  
+  - AI-driven sailing umpire system to enhance fairness and accuracy in competitive sailing.  
+- **RMIT BattleBots Website**  
+  - Full-stack website with GitHub Pages deployment, automating updates and improving team collaboration.  
+
+---
+
+## What I'm Currently Up To  
+- **PortStart.ai**: Advancing the AI-powered sailing umpire system; exploring hardware integration.  
+- **Open Source**: Contributing to IoT and Raspberry Pi projects to deepen hardware knowledge.  
+- **RMIT BattleBots Team**: Supporting robotics research and development through website creation.  
+- **HEX Ambassador**: Engaging in outreach and advocacy as a representative of HEX International.  
+- **Custom 3D Printing**: Designing practical solutions for sailing needs, learning Fusion 360.  
+- **RMIT Sailing Club**: Leading as founder and president, building a vibrant sailing community.  
+
+---
+
+## Interests  
+- Robotics | IoT | AI applications  
+- Sailing | Bouldering | Reading  
+- Open-source development and community contributions  
+
+---
 
 ## Contact  
 - **GitHub**: [LiamHounsell](https://github.com/lbrh)  
 - **LinkedIn**: [Liam Hounsell](https://linkedin.com/in/lbrh)  
-- **Email**: lbrhounsell@gmail.com
+- **Email**: lbrhounsell@gmail.com  
+
+💬 Let's connect, collaborate, or chat about technology, sailing, or anything in between!
